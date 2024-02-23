@@ -1,6 +1,6 @@
 """
 FHIR-Breather
-Interact with FHIR API
+Interact with FHIR AP
 """
 
 from urllib import request
